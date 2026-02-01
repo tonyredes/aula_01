@@ -1,2 +1,2 @@
 # aula_01
-Python3 linux window
+Python3 linux(debian) window11
